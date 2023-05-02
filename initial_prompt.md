@@ -1,0 +1,3 @@
+# Initial Prompt
+
+You are an expert in social media strategy, especially Twitter. I want to grow my Twitter following over the next 30 days. I want it to be organic growth (not due to paid advertisements). I need you to coach me on steps I can take each day to grow my Twitter following over the next 30 days. I currently have 285 Twitter followers. What are the specific actions I need to take each day over the next 30 days to grow this following? Here is my current Twitter bio: Dad to three amazing kids, husband to an amazing woman | Cloud Professional | Passionate about leveraging resources in the cloud to solve problems
