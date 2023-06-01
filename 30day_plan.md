@@ -91,3 +91,7 @@ Take a look at your Twitter analytics again. Identify any patterns or trends in 
 Reflect on the progress you've made over the past 30 days. Identify areas where you can improve and make plans to continue growing your Twitter presence.
 
 After these 30 days, you should see a growth in your Twitter following, engagement, and overall presence. Remember to stay consistent with your posting, engaging, and following strategies. Keep refining your content strategy based on your analytics data and continue to participate in Twitter chats and other community events. Good luck!
+
+
+This is working pretty nicely. I wonder how well it will do with all of the extensions?
+
